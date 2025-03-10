@@ -12,7 +12,7 @@ header{
 
 .navbar{
     height: 60px;
-    background-color: #0f1111;
+    background-color: #000000;
     color: white;
     display: flex;
     align-items: center;
@@ -25,13 +25,18 @@ header{
 .nav-logo{
 
     height: 50px;
-    width: 100px;
+    width: 80px;
+    background-image: url("+91\ 73918\ 26675\ 20211114_100328.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    
     
 }
 
 .logo{
     background-size: cover;
-    background-image: url("amazonlogo.jpg");
+   
     height: 50px;
     width: 100%;
 }
@@ -132,7 +137,7 @@ span{
  .panel-ops p{
     display: inline;
     margin-left: 15px;
-    
+   
  }
  .panel-ops{
     width: 70%;
@@ -148,7 +153,7 @@ span{
  /* hero section */
 
 .hero-section{
-    background-image: url("hero.jpg");
+    background-image: url("B1.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -156,7 +161,7 @@ span{
     align-items:flex-end;
 }
 .hero-msg{
-    background-color: white;
+    background-color: rgb(162, 236, 255);
     height: 35px;
     display: flex;
     align-items: center;
@@ -187,7 +192,7 @@ span{
     margin-top: 5px;
 }
 .box1{
-    background-image: url("1a.jpg");
+    background-image: url("I1.jpg");
     background-size: contain;
     height: 300px;
     margin: 10px;
@@ -195,35 +200,35 @@ span{
 }
 
 .box2{
-    background-image: url("2b.jpg");
+    background-image: url("I2.jpg");
     background-size: contain;
     height: 300px;
     margin: 10px;
   
 }
 .box3{
-    background-image: url("3c.jpg");
+    background-image: url("I3.jpg");
     background-size: contain;
     height: 280px;
     margin: 10px;
   
 }
 .box4{
-    background-image: url("4d.jpg");
+    background-image: url("I4.jpg");
     background-size: contain;
     height: 280px;
     margin: 10px;
   
 }
 .box5{
-    background-image: url("5e.jpg");
+    background-image: url("I5.jpg");
     background-size: contain;
     height: 280px;
     margin: 10px;
   
 }
 .box6{
-    background-image: url("6f.jpg");
+    background-image: url("I6.jpg");
     background-size: contain;
     height: 280px;
     margin: 10px;
@@ -231,14 +236,14 @@ span{
 }
 
 .box7{
-    background-image: url("7z.jpg");
+    background-image: url("I7.jpg");
     background-size: contain;
     height: 260px;
     margin: 10px;
   
 }
 .box8{
-    background-image: url("8g.jpg");
+    background-image: url("I8.jpg");
     background-size: contain;
     height: 260px;
     margin: 10px;
